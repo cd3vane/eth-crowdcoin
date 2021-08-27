@@ -4,7 +4,7 @@ const Web3 = require("web3");
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  "deposit apple rhythm slow rug occur worth useless ski cabbage owner boost",
+  META_MASK_PHRASE,
   // remember to change this to your own phrase!
   "https://rinkeby.infura.io/v3/bb159c25733c45dbb95afef1a9185c23"
   // remember to change this to your own endpoint!
