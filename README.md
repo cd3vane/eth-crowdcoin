@@ -1,8 +1,6 @@
 # Ethereum Kickstarter Smart Contract with Solidity and Next.js
 *This project was built alongside the Udemy course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)*
 
-[![wakatime](https://wakatime.com/badge/github/cd3vane/eth-crowdcoin.svg)](https://wakatime.com/badge/github/cd3vane/eth-crowdcoin)
-
 This is an Ethereum based smart contract application deployed on the Rinkeby Test Network which uses [Next.js](https://nextjs.org/) for routing and navigation and [semantic react-ui](https://react.semantic-ui.com/) for nicely styled react components.
 
 ## Getting Started
